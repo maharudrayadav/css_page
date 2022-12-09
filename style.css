@@ -5,11 +5,6 @@ body{
   background-repeat: no-repeat;
   background-position: bottom;
 }
-@@media screen(450) {
-  background-color:CFFDE1;
-  background-image: url(mount.png);
-  background-repeat: no-repeat;
-}
 .back{
   font-family:Lucida Calligraphy;
   position: fixed;
