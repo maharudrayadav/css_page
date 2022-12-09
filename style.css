@@ -1,0 +1,45 @@
+body{
+  background-color:CFFDE1;
+  background-image: url(mount.png);
+  background-size:850px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+@@media screen(450) {
+  background-color:CFFDE1;
+  background-image: url(mount.png);
+  background-repeat: no-repeat;
+}
+.back{
+  font-family:Lucida Calligraphy;
+  position: fixed;
+  color:green;
+  margin-left: 500px;
+  margin-top: 200px;
+  float: right;
+}
+span{
+  display: block;
+}
+.cloud{
+  margin-left:160px;
+  margin-top:250px;
+  float: left;
+}
+.img2{
+  margin-right:40px;
+  margin-top:140px;
+  clear: right;
+  float:right;
+}
+.nav{
+  float:right;
+  color:green;
+}
+li{
+  float:left;
+  padding:4px;
+}
+.hello{
+  float: left;
+}
